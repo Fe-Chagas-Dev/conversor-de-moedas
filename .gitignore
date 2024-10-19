@@ -1,4 +1,7 @@
 ### IntelliJ IDEA ###
+# Ignorar arquivo de configuração da API
+config.properties
+
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
