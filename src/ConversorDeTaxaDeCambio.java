@@ -4,13 +4,11 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
-
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
 public class ConversorDeTaxaDeCambio extends ConversorDeMoeda {
-    //private static final String API_KEY = "441c33cced77b551bd2bae79";
 
     private static String API_KEY;
 
