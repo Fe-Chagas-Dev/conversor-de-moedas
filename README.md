@@ -51,24 +51,24 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   4. **Insira essa chave no arquivo `config.properties` no formato indicado acima**. 
 #
 3. **Instalação da Biblioteca Gson**:
-   ```bash
+   
    Para utilizar a biblioteca Gson, você precisa adicioná-la ao seu projeto Java. Existem duas maneiras principais de fazer isso:
 
-   Se você estiver usando Maven, adicione a seguinte dependência ao seu arquivo pom.xml:
-
+   Se você estiver usando Maven, adicione a seguinte dependência ao seu arquivo `pom.xml`:
+   ```bash
    <dependency>
     <groupId>com.google.code.gson</groupId>
     <artifactId>gson</artifactId>
     <version>2.11.0</version> <!-- Substitua pela versão desejada -->
     </dependency>
-
+   ```
    Se você não estiver usando Maven, pode baixar o arquivo JAR do Gson diretamente do MVN Repository:
+   
+   ###### 1. Acesse [MVN Repository](https://mvnrepository.com/artifact/com.google.code.gson/gson)
+   
+   ###### 2. Baixe o arquivo JAR correspondente à versão desejada. 
 
-   1. Acesse MVN Repository - https://mvnrepository.com/artifact/com.google.code.gson/gson
-
-   2. Baixe o arquivo JAR correspondente à versão desejada. 
-
-   3. Adicione o JAR ao classpath do seu projeto.
+   ###### 3. Adicione o JAR ao classpath do seu projeto.
 
 3. **Compile o projeto:**:
    ```bash
