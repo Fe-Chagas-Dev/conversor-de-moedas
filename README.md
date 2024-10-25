@@ -1,3 +1,6 @@
+
+![Programação-Conversor de Moedas - Challenge Especialização Back-End](https://github.com/user-attachments/assets/33deb8af-629e-47e1-96da-6db3bcbc91bf)
+
 # Conversor de Moedas
 
 Um conversor de moedas interativo que utiliza taxas de câmbio dinâmicas obtidas através da API [ExchangeRate](https://www.exchangerate-api.com). Este programa, desenvolvido em Programação Orientada a Objetos (POO), permite a conversão entre várias moedas de forma simples e eficiente.
